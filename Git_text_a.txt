@@ -1,1 +1,3 @@
 Git init
+
+master 1
